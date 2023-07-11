@@ -1,0 +1,2 @@
+#!/bin/bash
+echi $((1238 + $TRUEKNOWLEDGE)) 
